@@ -6,4 +6,4 @@
 - C
 
 ## How-to
-- Do: 'nom build"
+- Do: 'npm build"
